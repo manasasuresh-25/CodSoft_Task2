@@ -8,7 +8,6 @@ Analyze the cleaned Netflix dataset using descriptive statistics to identify tre
 
 ## Tools Used
 - Python
-- Jupyter Notebook
 - Pandas
 - Matplotlib
 - Seaborn
